@@ -1,0 +1,8 @@
+.DS_store
+.venv
+__pycahe__
+*.pyc
+VENV
+*env*
+/script
+app.log
